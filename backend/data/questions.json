@@ -1,0 +1,53 @@
+[
+    {
+      "question": "What is Retrieval-Augmented Generation (RAG) in AI?",
+      "options": ["A data retrieval method", "A generative AI technique that integrates external knowledge", "A reinforcement learning algorithm", "A type of neural network"],
+      "answer": "A generative AI technique that integrates external knowledge"
+    },
+    {
+      "question": "Which model architecture is commonly used for text-to-image generation?",
+      "options": ["Transformer", "GAN", "CNN", "RNN"],
+      "answer": "GAN"
+    },
+    {
+      "question": "What is the primary advantage of AI agents using multimodal learning?",
+      "options": ["They can process and understand multiple data types like text, images, and audio", "They require less computational power", "They replace all traditional AI models", "They are used only in robotics"],
+      "answer": "They can process and understand multiple data types like text, images, and audio"
+    },
+    {
+      "question": "Which framework is widely used for AI model interpretability and explainability?",
+      "options": ["SHAP", "PyTorch", "BERT", "GAN"],
+      "answer": "SHAP"
+    },
+    {
+      "question": "What is the significance of Large Language Models (LLMs) in AI?",
+      "options": ["They allow AI to understand and generate human-like text", "They are small AI models with limited capabilities", "They are only used for computer vision", "They are faster than all traditional AI models"],
+      "answer": "They allow AI to understand and generate human-like text"
+    },
+    {
+      "question": "What is Federated Learning in AI?",
+      "options": ["A method for AI training without sharing user data", "A reinforcement learning technique", "A type of deep learning model", "A way to store AI models on the cloud"],
+      "answer": "A method for AI training without sharing user data"
+    },
+    {
+      "question": "Which AI concept is essential for reducing model bias and improving fairness?",
+      "options": ["Data Augmentation", "Explainable AI", "Data Compression", "Overfitting"],
+      "answer": "Explainable AI"
+    },
+    {
+      "question": "What is the purpose of Self-Supervised Learning?",
+      "options": ["To train AI models without labeled data", "To use external databases for training", "To supervise multiple AI models", "To eliminate the need for training"],
+      "answer": "To train AI models without labeled data"
+    },
+    {
+      "question": "How does Contrastive Learning benefit AI models?",
+      "options": ["It helps in learning representations by comparing similar and dissimilar data", "It only applies to reinforcement learning", "It speeds up model inference", "It is used to generate synthetic images"],
+      "answer": "It helps in learning representations by comparing similar and dissimilar data"
+    },
+    {
+      "question": "What role does AI play in the development of autonomous systems?",
+      "options": ["It enables decision-making and control without human intervention", "It only helps with data visualization", "It is used only for social media applications", "It has no role in autonomous systems"],
+      "answer": "It enables decision-making and control without human intervention"
+    }
+  ]
+  
